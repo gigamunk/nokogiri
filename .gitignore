@@ -1,4 +1,4 @@
-*.gemspec
+#*.gemspec
 *.rbc
 *.tmproj
 *~
